@@ -24,8 +24,6 @@ I'm Zakhary, young web developer experienced in creating dynamic and interactive
 - **[View](https://deathfluffy.github.io/goit-react-hw-08-phonebook/)**
 
 ## Get in Touch
-
-- **Email**: mrandreu454@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/kryvoruchko-zakhary)
 
 Thanks for visiting my profile! I'm open to discussing collaboration opportunities or sharing experiences.
